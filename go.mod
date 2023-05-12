@@ -1,3 +1,3 @@
-module php_pack
+module github.com/xycczZ/php_pack
 
 go 1.20
